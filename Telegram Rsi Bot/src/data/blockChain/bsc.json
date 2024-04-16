@@ -1,0 +1,572 @@
+[
+    {
+      "connectionId": "binacesmartchain",
+      "name": "BNB Smart Chain",
+      "icon": "https://static.coinstats.app/portfolio_images/binacesmartchain.png",
+      "chain": "bsc"
+    },
+    {
+      "connectionId": "doge-wallet",
+      "name": "Doge",
+      "icon": "https://static.coinstats.app/portfolio_images/doge-wallet.png",
+      "chain": "dogecoin"
+    },
+    {
+      "connectionId": "polygon-wallet",
+      "name": "Polygon",
+      "icon": "https://static.coinstats.app/portfolio_images/polygon-wallet.png",
+      "chain": "polygon"
+    },
+    {
+      "connectionId": "elrond-wallet",
+      "name": "MultiversX",
+      "icon": "https://static.coinstats.app/portfolio_images/elrond-wallet.png",
+      "chain": "elrond"
+    },
+    {
+      "connectionId": "solana",
+      "name": "Solana",
+      "icon": "https://static.coinstats.app/portfolio_images/solana.png",
+      "chain": "solana"
+    },
+    {
+      "connectionId": "kusama-wallet",
+      "name": "Kusama",
+      "icon": "https://static.coinstats.app/portfolio_images/kusama-wallet.png",
+      "chain": "kusama-wallet"
+    },
+    {
+      "connectionId": "avalanche-wallet",
+      "name": "Avalanche",
+      "icon": "https://static.coinstats.app/portfolio_images/avalanche-wallet.png",
+      "chain": "avalanche"
+    },
+    {
+      "connectionId": "fantom-wallet",
+      "name": "Fantom",
+      "icon": "https://static.coinstats.app/portfolio_images/fantom-wallet.png",
+      "chain": "fantom"
+    },
+    {
+      "connectionId": "arbitrum-wallet",
+      "name": "Arbitrum",
+      "icon": "https://static.coinstats.app/portfolio_images/arbitrum-wallet.png",
+      "chain": "arbitrum"
+    },
+    {
+      "connectionId": "heco-wallet",
+      "name": "Heco",
+      "icon": "https://static.coinstats.app/portfolio_images/heco-wallet.png",
+      "chain": "heco"
+    },
+    {
+      "connectionId": "moonriver-wallet",
+      "name": "Moonriver",
+      "icon": "https://static.coinstats.app/portfolio_images/moonriver-wallet.png",
+      "chain": "moonriver"
+    },
+    {
+      "connectionId": "celo-wallet",
+      "name": "Celo",
+      "icon": "https://static.coinstats.app/portfolio_images/celo-wallet.png",
+      "chain": "celo"
+    },
+    {
+      "connectionId": "terra-wallet",
+      "name": "Terra Classic",
+      "icon": "https://static.coinstats.app/portfolio_images/terra-wallet.png",
+      "chain": "terra-wallet"
+    },
+    {
+      "connectionId": "cronos-wallet",
+      "name": "Cronos",
+      "icon": "https://static.coinstats.app/portfolio_images/cronos-wallet.png",
+      "chain": "cro"
+    },
+    {
+      "connectionId": "boba-wallet",
+      "name": "Boba",
+      "icon": "https://static.coinstats.app/portfolio_images/boba-wallet.png",
+      "chain": "boba"
+    },
+    {
+      "connectionId": "metis-wallet",
+      "name": "Metis",
+      "icon": "https://static.coinstats.app/portfolio_images/metis-wallet.png",
+      "chain": "metis"
+    },
+    {
+      "connectionId": "gnosis-chain",
+      "name": "Gnosis Chain",
+      "icon": "https://static.coinstats.app/portfolio_images/gnosis-chain.png",
+      "chain": "gnosis"
+    },
+    {
+      "connectionId": "terra-wallet-2",
+      "name": "Terra 2  (BETA)",
+      "icon": "https://static.coinstats.app/portfolio_images/terra-wallet-2.png",
+      "chain": "terra-wallet-2"
+    },
+    {
+      "connectionId": "optimism-wallet",
+      "name": "Optimism",
+      "icon": "https://static.coinstats.app/portfolio_images/optimism-wallet.png",
+      "chain": "optimism"
+    },
+    {
+      "connectionId": "evmos-wallet",
+      "name": "Evmos  (EVM)",
+      "icon": "https://static.coinstats.app/portfolio_images/evmos-wallet.png",
+      "chain": "evmos"
+    },
+    {
+      "connectionId": "klaytn-wallet",
+      "name": "Klaytn",
+      "icon": "https://static.coinstats.app/portfolio_images/klaytn-wallet.png",
+      "chain": "klay"
+    },
+    {
+      "connectionId": "okx-wallet",
+      "name": "OKX Chain",
+      "icon": "https://static.coinstats.app/portfolio_images/okx-wallet.png",
+      "chain": "okt"
+    },
+    {
+      "connectionId": "harmony-wallet",
+      "name": "Harmony",
+      "icon": "https://static.coinstats.app/portfolio_images/harmony-wallet.png",
+      "chain": "hmy"
+    },
+    {
+      "connectionId": "aurora-wallet",
+      "name": "Aurora",
+      "icon": "https://static.coinstats.app/portfolio_images/aurora-wallet.png",
+      "chain": "aurora"
+    },
+    {
+      "connectionId": "aptos-wallet",
+      "name": "Aptos",
+      "icon": "https://static.coinstats.app/portfolio_images/aptos-wallet.png",
+      "chain": "aptos"
+    },
+    {
+      "connectionId": "bitgert-wallet",
+      "name": "Bitgert",
+      "icon": "https://static.coinstats.app/portfolio_images/bitgert-wallet.png",
+      "chain": "brise"
+    },
+    {
+      "connectionId": "moonbeam-wallet",
+      "name": "Moonbeam",
+      "icon": "https://static.coinstats.app/portfolio_images/moonbeam-wallet.png",
+      "chain": "moonbeam"
+    },
+    {
+      "connectionId": "near-wallet",
+      "name": "NEAR",
+      "icon": "https://static.coinstats.app/portfolio_images/near-wallet.png",
+      "chain": "near-protocol"
+    },
+    {
+      "connectionId": "acala-wallet",
+      "name": "Acala",
+      "icon": "https://static.coinstats.app/portfolio_images/acala-wallet.png",
+      "chain": "acala-wallet"
+    },
+    {
+      "connectionId": "canto-wallet",
+      "name": "Canto",
+      "icon": "https://static.coinstats.app/portfolio_images/canto-wallet.png",
+      "chain": "canto"
+    },
+    {
+      "connectionId": "zksync-era-wallet",
+      "name": "zkSync Era",
+      "icon": "https://static.coinstats.app/portfolio_images/zksync-era-wallet.png",
+      "chain": "era"
+    },
+    {
+      "connectionId": "zkevm-polygon-wallet",
+      "name": "zkEvm Polygon",
+      "icon": "https://static.coinstats.app/portfolio_images/zkevm-polygon-wallet.png",
+      "chain": "zkevm_polygon"
+    },
+    {
+      "connectionId": "arbitrum-nova-wallet",
+      "name": "Arbitrum Nova",
+      "icon": "https://static.coinstats.app/portfolio_images/arbitrum-nova-wallet.png",
+      "chain": "arbitrum_nova"
+    },
+    {
+      "connectionId": "sui-wallet",
+      "name": "Sui",
+      "icon": "https://static.coinstats.app/portfolio_images/sui-wallet.png",
+      "chain": "sui"
+    },
+    {
+      "connectionId": "pulsechain-wallet",
+      "name": "PulseChain",
+      "icon": "https://static.coinstats.app/portfolio_images/pulsechain-wallet.png",
+      "chain": "pulsechain"
+    },
+    {
+      "connectionId": "kava-wallet",
+      "name": "Kava EVM",
+      "icon": "https://static.coinstats.app/portfolio_images/kava-wallet.png",
+      "chain": "kava"
+    },
+    {
+      "connectionId": "ton-wallet",
+      "name": "TON",
+      "icon": "https://static.coinstats.app/portfolio_images/ton-wallet.png",
+      "chain": "ton"
+    },
+    {
+      "connectionId": "starknet-wallet",
+      "name": "Starknet",
+      "icon": "https://static.coinstats.app/portfolio_images/starknet-wallet.png",
+      "chain": "starknet-wallet"
+    },
+    {
+      "connectionId": "neo",
+      "name": "NEO",
+      "icon": "https://static.coinstats.app/portfolio_images/neo.png",
+      "chain": "neo"
+    },
+    {
+      "connectionId": "iota",
+      "name": "IOTA",
+      "icon": "https://static.coinstats.app/portfolio_images/iota.png",
+      "chain": "iota"
+    },
+    {
+      "connectionId": "digibyte",
+      "name": "DigiByte",
+      "icon": "https://static.coinstats.app/portfolio_images/digibyte.png",
+      "chain": "digibyte"
+    },
+    {
+      "connectionId": "bitcoin_sv",
+      "name": "Bitcoin SV",
+      "icon": "https://static.coinstats.app/portfolio_images/bitcoin_sv.png",
+      "chain": "bitcoin_sv"
+    },
+    {
+      "connectionId": "celsius",
+      "name": "Celsius Network",
+      "icon": "https://static.coinstats.app/portfolio_images/celsius.png",
+      "chain": "celsius"
+    },
+    {
+      "connectionId": "algorand",
+      "name": "Algorand",
+      "icon": "https://static.coinstats.app/portfolio_images/algorand.png",
+      "chain": "algorand"
+    },
+    {
+      "connectionId": "cosmos",
+      "name": "Cosmos",
+      "icon": "https://static.coinstats.app/portfolio_images/cosmos.png",
+      "chain": "cosmos"
+    },
+    {
+      "connectionId": "zilliqa",
+      "name": "Zilliqa",
+      "icon": "https://static.coinstats.app/portfolio_images/zilliqa.png",
+      "chain": "zilliqa"
+    },
+    {
+      "connectionId": "ontology",
+      "name": "Ontology  (ONTO)",
+      "icon": "https://static.coinstats.app/portfolio_images/ontology.png",
+      "chain": "ontology"
+    },
+    {
+      "connectionId": "band_protocol",
+      "name": "Band Protocol",
+      "icon": "https://static.coinstats.app/portfolio_images/band_protocol.png",
+      "chain": "band_protocol"
+    },
+    {
+      "connectionId": "ethereum_classic",
+      "name": "Ethereum Classic",
+      "icon": "https://static.coinstats.app/portfolio_images/ethereum_classic.png",
+      "chain": "ethereum-classic"
+    },
+    {
+      "connectionId": "bnb_beacon",
+      "name": "BNB Beacon Chain",
+      "icon": "https://static.coinstats.app/portfolio_images/bnb_beacon.png",
+      "chain": "binance"
+    },
+    {
+      "connectionId": "bitcoin_cash",
+      "name": "Bitcoin Cash",
+      "icon": "https://static.coinstats.app/portfolio_images/bitcoin_cash.png",
+      "chain": "bitcoin-cash"
+    },
+    {
+      "connectionId": "xrp",
+      "name": "XRP",
+      "icon": "https://static.coinstats.app/portfolio_images/xrp.png",
+      "chain": "xrp"
+    },
+    {
+      "connectionId": "litecoin",
+      "name": "Litecoin",
+      "icon": "https://static.coinstats.app/portfolio_images/litecoin.png",
+      "chain": "litecoin"
+    },
+    {
+      "connectionId": "dash",
+      "name": "Dash",
+      "icon": "https://static.coinstats.app/portfolio_images/dash.png",
+      "chain": "dash"
+    },
+    {
+      "connectionId": "cardano",
+      "name": "Cardano",
+      "icon": "https://static.coinstats.app/portfolio_images/cardano.png",
+      "chain": "cardano"
+    },
+    {
+      "connectionId": "vechain",
+      "name": "VeChain",
+      "icon": "https://static.coinstats.app/portfolio_images/vechain.png",
+      "chain": "vechain"
+    },
+    {
+      "connectionId": "tron",
+      "name": "Tron",
+      "icon": "https://static.coinstats.app/portfolio_images/tron.png",
+      "chain": "tron"
+    },
+    {
+      "connectionId": "waves",
+      "name": "Waves",
+      "icon": "https://static.coinstats.app/portfolio_images/waves.png",
+      "chain": "waves"
+    },
+    {
+      "connectionId": "eos",
+      "name": "EOS",
+      "icon": "https://static.coinstats.app/portfolio_images/eos.png",
+      "chain": "eos"
+    },
+    {
+      "connectionId": "tezos",
+      "name": "Tezos",
+      "icon": "https://static.coinstats.app/portfolio_images/tezos.png",
+      "chain": "tezos"
+    },
+    {
+      "connectionId": "stellar",
+      "name": "Stellar",
+      "icon": "https://static.coinstats.app/portfolio_images/stellar.png",
+      "chain": "stellar"
+    },
+    {
+      "connectionId": "polkadot",
+      "name": "Polkadot",
+      "icon": "https://static.coinstats.app/portfolio_images/polkadot.png",
+      "chain": "polkadot"
+    },
+    {
+      "connectionId": "bitcoin",
+      "name": "Bitcoin",
+      "icon": "https://static.coinstats.app/portfolio_images/bitcoin.png",
+      "chain": "bitcoin"
+    },
+    {
+      "connectionId": "ethereum",
+      "name": "Ethereum",
+      "icon": "https://static.coinstats.app/portfolio_images/ethereum.png",
+      "chain": "ethereum"
+    },
+    {
+      "connectionId": "base-wallet",
+      "name": "Base",
+      "icon": "https://static.coinstats.app/portfolio_images/base-wallet.png",
+      "chain": "base"
+    },
+    {
+      "connectionId": "linea-wallet",
+      "name": "Linea",
+      "icon": "https://static.coinstats.app/portfolio_images/linea-wallet.png",
+      "chain": "linea"
+    },
+    {
+      "connectionId": "opbnb-wallet",
+      "name": "opBNB",
+      "icon": "https://static.coinstats.app/portfolio_images/opbnb-wallet.png",
+      "chain": "opbnb"
+    },
+    {
+      "connectionId": "mantle-wallet",
+      "name": "Mantle",
+      "icon": "https://static.coinstats.app/portfolio_images/mantle-wallet.png",
+      "chain": "mantle"
+    },
+    {
+      "connectionId": "zora-wallet",
+      "name": "Zora",
+      "icon": "https://static.coinstats.app/portfolio_images/zora-wallet.png",
+      "chain": "zora"
+    },
+    {
+      "connectionId": "manta-wallet",
+      "name": "Manta Pacific",
+      "icon": "https://static.coinstats.app/portfolio_images/manta-wallet.png",
+      "chain": "manta"
+    },
+    {
+      "connectionId": "scroll-wallet",
+      "name": "Scroll",
+      "icon": "https://static.coinstats.app/portfolio_images/scroll-wallet.png",
+      "chain": "scroll"
+    },
+    {
+      "connectionId": "kaspa-wallet",
+      "name": "Kaspa",
+      "icon": "https://static.coinstats.app/portfolio_images/kaspa-wallet.png",
+      "chain": "kaspa-wallet"
+    },
+    {
+      "connectionId": "blast-wallet",
+      "name": "BlastIO",
+      "icon": "https://static.coinstats.app/portfolio_images/blast-wallet.png",
+      "chain": "blast"
+    },
+    {
+      "connectionId": "osmosis-wallet",
+      "name": "Osmosis",
+      "icon": "https://static.coinstats.app/portfolio_images/osmosis-wallet.png",
+      "chain": "osmosis-wallet"
+    },
+    {
+      "connectionId": "juno-wallet",
+      "name": "Juno",
+      "icon": "https://static.coinstats.app/portfolio_images/juno-wallet.png",
+      "chain": "juno-wallet"
+    },
+    {
+      "connectionId": "injective-wallet",
+      "name": "Injective",
+      "icon": "https://static.coinstats.app/portfolio_images/injective-wallet.png",
+      "chain": "injective-wallet"
+    },
+    {
+      "connectionId": "celestia-wallet",
+      "name": "Celestia",
+      "icon": "https://static.coinstats.app/portfolio_images/celestia-wallet.png",
+      "chain": "celestia-wallet"
+    },
+    {
+      "connectionId": "cronos-cosmos-wallet",
+      "name": "Cronos (Pos)",
+      "icon": "https://static.coinstats.app/portfolio_images/cronos-cosmos-wallet.png",
+      "chain": "cronos-cosmos-wallet"
+    },
+    {
+      "connectionId": "sei-wallet",
+      "name": "Sei",
+      "icon": "https://static.coinstats.app/portfolio_images/sei-wallet.png",
+      "chain": "sei-wallet"
+    },
+    {
+      "connectionId": "kujira-wallet",
+      "name": "Kujira",
+      "icon": "https://static.coinstats.app/portfolio_images/kujira-wallet.png",
+      "chain": "kujira-wallet"
+    },
+    {
+      "connectionId": "akash-wallet",
+      "name": "Akash",
+      "icon": "https://static.coinstats.app/portfolio_images/akash-wallet.png",
+      "chain": "akash-wallet"
+    },
+    {
+      "connectionId": "dymension-evm-wallet",
+      "name": "Dymension (EVM)",
+      "icon": "https://static.coinstats.app/portfolio_images/dymension-evm-wallet.png",
+      "chain": "dymension_evm"
+    },
+    {
+      "connectionId": "dymension-wallet",
+      "name": "Dymension",
+      "icon": "https://static.coinstats.app/portfolio_images/dymension-wallet.png",
+      "chain": "dymension-wallet"
+    },
+    {
+      "connectionId": "bittensor-wallet",
+      "name": "BitTensor",
+      "icon": "https://static.coinstats.app/portfolio_images/bittensor-wallet.png",
+      "chain": "bittensor"
+    },
+    {
+      "connectionId": "dydx-wallet",
+      "name": "DyDx",
+      "icon": "https://static.coinstats.app/portfolio_images/dydx-wallet.png",
+      "chain": "dydx-wallet"
+    },
+    {
+      "connectionId": "kava-cosmos-wallet",
+      "name": "Kava (Cosmos)",
+      "icon": "https://static.coinstats.app/portfolio_images/kava-cosmos-wallet.png",
+      "chain": "kava-cosmos-wallet"
+    },
+    {
+      "connectionId": "fetch-wallet",
+      "name": "Fetch.ai",
+      "icon": "https://static.coinstats.app/portfolio_images/fetch-wallet.png",
+      "chain": "fetch-wallet"
+    },
+    {
+      "connectionId": "axelar-wallet",
+      "name": "Axelar",
+      "icon": "https://static.coinstats.app/portfolio_images/axelar-wallet.png",
+      "chain": "axelar-wallet"
+    },
+    {
+      "connectionId": "stride-wallet",
+      "name": "Stride",
+      "icon": "https://static.coinstats.app/portfolio_images/stride-wallet.png",
+      "chain": "stride-wallet"
+    },
+    {
+      "connectionId": "thorchain-wallet",
+      "name": "THORChain",
+      "icon": "https://static.coinstats.app/portfolio_images/thorchain-wallet.png",
+      "chain": "thorchain-wallet"
+    },
+    {
+      "connectionId": "evmos-cosmos-wallet",
+      "name": "Evmos (Cosmos)",
+      "icon": "https://static.coinstats.app/portfolio_images/evmos-cosmos-wallet.png",
+      "chain": "evmos-cosmos-wallet"
+    },
+    {
+      "connectionId": "internet-computer-wallet",
+      "name": "Internet Computer",
+      "icon": "https://static.coinstats.app/portfolio_images/internet-computer-wallet.png",
+      "chain": "internet-computer"
+    },
+    {
+      "connectionId": "fio-wallet",
+      "name": "Fio",
+      "icon": "https://static.coinstats.app/portfolio_images/fio-wallet.png",
+      "chain": "fio-protocol"
+    },
+    {
+      "connectionId": "immutable-wallet",
+      "name": "Immutable",
+      "icon": "https://static.coinstats.app/portfolio_images/immutable-wallet.png",
+      "chain": "immutable"
+    },
+    {
+      "connectionId": "degen-wallet",
+      "name": "Degen",
+      "icon": "https://static.coinstats.app/portfolio_images/degen-wallet.png",
+      "chain": "degen"
+    }
+  ]

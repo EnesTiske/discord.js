@@ -1,0 +1,13 @@
+{
+    "clientId": "",
+    "guildId": "",
+    "token": "",
+    "laddersHostedChannelId": "",
+    "ticketChannelId": "",
+    "zoneWarsChannelId": "",
+    "AdminChannelId": "",
+    "hostedRequirement": "5",
+    "ticketRequirement": "5",
+    "zoneWarsRequirement": "5",
+    "staffRole": ""
+}

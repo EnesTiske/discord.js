@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "dextoolsApiKey": "",
+    "coinStatsOpenApiKey": "",
+    "savedChannelId": 0,
+    "requests": 75,
+    "rsiLimit": 70,
+    "admins": [
+    ]
+}
